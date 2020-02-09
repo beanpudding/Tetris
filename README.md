@@ -6,5 +6,5 @@
 ## 操作
 键盘的<kbd>←</kbd><kbd>→</kbd>移动方块，<kbd>↑</kbd>旋转，<kbd>↓</kbd>速降。
 
-## Alpha版演示
-![Alpha-Demo](./alpha-demo.gif)
+## 演示
+![Demo](./demo.gif)

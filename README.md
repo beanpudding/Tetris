@@ -11,4 +11,4 @@
 
 ## 下载
 
-[俄罗斯方块.xlsm](https://github.com/beanjeally/Tetris/raw/master/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97.xlsm)
+[俄罗斯方块.xlsm](https://github.com/beanpudding/Tetris/raw/master/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97.xlsm)
